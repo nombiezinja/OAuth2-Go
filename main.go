@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/IntuitDeveloper/OAuth2-Go/config"
-	"github.com/IntuitDeveloper/OAuth2-Go/handlers"
+	"github.com/nombiezinja/OAuth2-Go/config"
+	"github.com/nombiezinja/OAuth2-Go/handlers"
 )
 
 func main() {

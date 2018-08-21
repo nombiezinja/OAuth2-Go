@@ -27,15 +27,15 @@ In order to successfully run this sample app you need a few things:
  
 ## First Use Instructions
 
-1. `go get -d github.com/IntuitDeveloper/OAuth2-Go`
-2. Fill in the [`config.json`](github.com/IntuitDeveloper/OAuth2-Go/config.json) file values (clientId, clientSecret) by copying over from the keys section for your app.
+1. `go get -d github.com/nombiezinja/OAuth2-Go`
+2. Fill in the [`config.json`](github.com/nombiezinja/OAuth2-Go/config.json) file values (clientId, clientSecret) by copying over from the keys section for your app.
 
 ## Running the code
 
 Once the sample app code is on your computer, you can do the following steps to run the app:
 
 1. Install the sample using the following commands<br />
-	`cd $GOPATH/src/github.com/IntuitDeveloper/OAuth2-Go`<br />
+	`cd $GOPATH/src/github.com/nombiezinja/OAuth2-Go`<br />
 	`go install`<br />
 2. Run the sample by using one of the two commands below<br />
 	`$GOPATH/bin/OAuth2-Go`<br />

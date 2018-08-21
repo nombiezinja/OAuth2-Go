@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/IntuitDeveloper/OAuth2-Go/cache"
+	"github.com/nombiezinja/OAuth2-Go/cache"
 )
 
 /*

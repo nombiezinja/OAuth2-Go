@@ -1,7 +1,7 @@
 {
 	"port": ":9090",
-	"clientId": "add your client id here",
-	"clientSecret": "add your client secret here",
+	"clientId": "L093aQ7XyGkCQP3gY3Ee9m7NRno0mhNa2ru184wX1m1qtpDxQO",
+	"clientSecret": "35UjrneUCwPf0VhT8KML7BYi7WxjJY6aerTx3wRF",
 	"redirectUri": "http://localhost:9090/oauth2redirect",
 	"intuitAccountingAPIHost": "https://sandbox-quickbooks.api.intuit.com",
 	"discoveryAPIHost": "https://developer.api.intuit.com/.well-known/openid_sandbox_configuration",
